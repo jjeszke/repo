@@ -5,4 +5,4 @@ from Sikuli import *
 
 def test(self):
     print("test")
-    Siku
+    print("sadffsad")
